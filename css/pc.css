@@ -158,18 +158,18 @@ li {
 /* ------------------------------------
 ◆　index
 ------------------------------------ */
-.headline .l-column .l-block {
+.headline .left-column .l-block {
   float: left;
   width: 360px;
 }
 
-.headline .l-column img {
+.headline .left-column img {
   width: 360px;
   height: 180px;
   margin-bottom: 10px;
 }
 
-.headline .l-column h4 {
+.headline .left-column h4 {
   font-family: YuGo;
   color: #666666;
   font-size: 14px;
@@ -178,7 +178,7 @@ li {
   margin-bottom: 5px;
 }
 
-.headline .l-column p {
+.headline .left-column p {
   font-family: YuGo;
   color: #999999;
   font-size: 9.01px;
@@ -186,7 +186,7 @@ li {
   text-align: left;
 }
 
-.headline .l-column .r-block {
+.headline .left-column .r-block {
   float: right;
   width: 360px;
 }
