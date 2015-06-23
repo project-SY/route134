@@ -1,3 +1,4 @@
+	</div>
 		<div id="footer" class="content-width">
 			<div class="footer-info clearfix">
 				<div class="footer-info-area">

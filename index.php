@@ -1,5 +1,4 @@
 <?php include('header.php'); ?>
-		<div id="container">
 			<div class="headline">
 				<div class="headline-inner content-width clearfix">
 					<div class="l-column">
@@ -32,5 +31,4 @@
 					</div>
 				</div>
 			</div>
-		</div>
 <?php include('footer.php'); ?>
