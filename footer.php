@@ -11,9 +11,9 @@
 				<div class="footer-info-area">
 					<b>公式SNSアカウント</b>
 					<ul>
-						<li><a href="#"><span>&gt;</span>Facebook</a></li>
+						<li><a href="https://www.facebook.com/Route134.Official" target="_blank"><span>&gt;</span>Facebook</a></li>
 						<li><a href="#"><span>&gt;</span>Twitter</a></li>
-						<li><a href="#"><span>&gt;</span>Instagram</a></li>
+						<li><a href="https://instagram.com/route134_official/" target="_blank"><span>&gt;</span>Instagram</a></li>
 					</ul>
 				</div>
 			</div>
