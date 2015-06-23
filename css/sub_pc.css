@@ -1,3 +1,27 @@
 /* ------------------------------------
+◆　common
+------------------------------------ */
+
+.contents-area {
+	float:left;
+	background-color:  #ffffff;
+	width:745px;
+}
+
+/* ------------------------------------
 ◆　single
 ------------------------------------ */
+
+#single {
+	width:1000px;
+}
+
+#pankuzu {
+	padding:15px 0;
+	border-bottom:2px dotted #eeeeee;
+	font-family: YuGo;
+	color:  #666666;
+	font-weight: 500;
+	text-align: left;
+	transform: scaleY(1.001);
+}

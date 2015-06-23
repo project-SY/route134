@@ -13,7 +13,7 @@
 さが重要となってくるけれど、やっ...
 							</p>
 							<div class="article-prof">
-								
+								"color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme"
 							</div>
 						</div>
 						<div class="r-block">
