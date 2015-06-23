@@ -69,6 +69,12 @@ li {
   margin: 0px auto;
 }
 
+#container {
+  width: 100%;
+  background-color: #fcfcfc;
+  border-bottom: solid 1px #65acdf;
+}
+
 /* ------------------------------------
 ◆　header
 ------------------------------------ */
@@ -138,7 +144,6 @@ li {
 ◆　index
 ------------------------------------ */
 .headline {
-  background-color: #fcfcfc;
   padding: 50px 0px 55px;
 
 }
@@ -212,17 +217,51 @@ li {
 
 
 
+
+
 /* ------------------------------------
 ◆　footer
 ------------------------------------ */
 #footer {
-  width: 100%;
-  margin: 30px 0px 35px;
+  box-sizing: content-box;
+  padding: 40px 0px 90px;
+}
+
+#footer .footer-info-area {
+  float: left;
+  margin-right: 40px;
+}
+
+#footer .footer-info-area:last-child {
+  margin-right: 0px;
+}
+
+#footer .footer-info-area b {
+  display: block;
+  margin-bottom: 3px;
+}
+
+#footer .footer-info-area li a {
+  font-family: FontAwesome;
+  color:  #65acdf;
+  font-size: 9px; /* フォント置換による類似 */
+  font-weight: 400;
+  text-align: left;
+  line-height: 1.9em;
+}
+
+#footer .footer-info-area span {
+  font-size: 10px;
+  padding-right: 3px;
 }
 
 #footer p {
-  color: #cccccc;
+  font-family: YuGo;
+  color:  #cccccc;
+  font-size: 9px; /* フォント置換による類似 */
+  font-weight: 500;
+  line-height: 21.8px; /* フォント置換による類似 */
   text-align: center;
-  font-size: 9px;
 }
+
 

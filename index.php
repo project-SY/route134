@@ -12,6 +12,9 @@
 								いろいろとアクティブなイベントが多い夏。コーディネートの動きやす
 さが重要となってくるけれど、やっ...
 							</p>
+							<div class="article-prof">
+								
+							</div>
 						</div>
 						<div class="r-block">
 							<img src="./images/pic-headline-thumbnail-02.png" height="180" width="360">
