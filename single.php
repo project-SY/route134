@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
-	<div id="single" class="content-width">
-		<div class="contents-area clearfix">
+	<div id="single" class="content-width clearfix">
+		<div class="left-column">
 			<div id="pankuzu">
 			ぱんくずリストが入ります。
 			</div>

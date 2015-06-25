@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 <div class="headline content-width clearfix">
 	<div class="left-column">
-		<div class="l-block">
+		<a class="l-block">
 			<img src="./images/pic-headline-thumbnail-01.png" height="180" width="360" alt="">
 			<h4>
 				まるで海外のリゾート地♥ 湘南のオシャレなビーチハウスで週末を満喫しよう
@@ -13,7 +13,7 @@
 			<div class="headline-prof">
 				
 			</div>
-		</div>
+		</a>
 		<div class="r-block">
 			<img src="./images/pic-headline-thumbnail-02.png" height="180" width="360">
 			<h4>
