@@ -1,16 +1,166 @@
+css
+/* ------------------------------------
+◆　common
+------------------------------------ */
+
+.contents-area {
+float:left;
+background-color:  #ffffff;
+width:745px;
+}
+
+.border-btm-gray {
+border-bottom:2px dotted #eeeeee;
+}
+
+.border-btm-aqua {
+border-bottom:2px dotted #65acdf;
+}
+
 /* ------------------------------------
 ◆　single
 ------------------------------------ */
 
 #single {
+width:1000px;
+}
+
+#single .left-column {
+padding:0;
 }
 
 #pankuzu {
-padding:15px 0;
-border-bottom:2px dotted #eeeeee;
+padding:15px 20px;
 font-family: YuGo;
 color:  #666666;
 font-weight: 500;
 text-align: left;
 transform: scaleY(1.001);
+}
+
+#single .single__post-media {
+padding:20px;
+}
+
+#single .single__post-media img {
+display:block;
+float:left;
+width:120px;
+height:120px;
+}
+
+#single .single__post-media .right {
+float:right;
+width:560px;
+}
+
+#single .single__post-media .right h2 {
+font-size:22px;
+margin-bottom:20px;
+line-height:1.5em;
+font-family: YuGo;
+color:  #666666;
+}
+
+#single .sns-area {
+padding:10px 20px;
+}
+
+#single .post-main {
+padding:20px;
+}
+
+#single .post-main img {
+width:700px;
+}
+
+#single .post-main h3 {
+padding:20px 0px 10px 0;
+border-bottom: 2px solid #65acdf;
+font-family: YuGo;
+color:  #666666;
+font-size: 18px; 
+font-weight: 500;
+}
+
+#single .post-main p {
+padding:20px 0;
+font-size: 12px;
+line-height:2.5em;
+}
+
+#single .related-posts {
+padding:20px 20px 40px 20px;
+}
+
+#single .related-posts h3 {
+padding:20px 0px 10px 0;
+border-bottom: 1px solid #65acdf;
+font-family: YuGo;
+color:  #666666;
+font-size: 14px;
+font-weight: 500;
+margin-bottom:20px;
+}
+
+#single .related-posts .media {
+width:495px;
+margin-bottom:10px;
+}
+
+#single .related-posts .media:last-child {
+margin-bottom:0px;
+}
+
+#single .related-posts .media img {
+width:60px;
+height:60px;
+float:left;
+}
+
+#single .related-posts .media .right {
+float:right;
+width:425px;
+padding:5px 0;
+}
+
+#single .related-posts .media .right h4 {
+font-family: YuGo;
+color:  #666666;
+font-size: 12px;
+margin-bottom:5px;
+}
+
+#single .related-posts .media .right span {
+display:inline-block;
+width: 100px;
+margin-right:10px;
+padding:7px 0px;
+text-align:center;
+font-size:10px;
+border-radius: 2px;
+background-color:  #f9cfb2;
+color:#FFF;
+}
+
+#single .related-posts .media .right p {
+font-size:9px;
+}
+
+#single .auther-meta {
+padding:20px;
+}
+
+#single .auther-meta img {
+float:left;
+margin-right:10px;
+width:60px;
+height:60px;
+}
+
+#single .auther {
+font-family: Avenir;
+font-size:11px;
+color:  #999999;
+line-height:60px;
 }
