@@ -10,8 +10,13 @@
 				いろいろとアクティブなイベントが多い夏。コーディネートの動きやす
 	さが重要となってくるけれど、やっ...
 			</p>
-			<div class="headline-prof">
-				
+			<div class="headline-info">
+				<div class="headline-category lifestyle">
+					<h6>ライフスタイル</h6>
+				</div>
+				<div class="headline-author">
+					
+				</div>
 			</div>
 		</a>
 		<div class="r-block">
@@ -26,7 +31,24 @@
 		</div>
 	</div>
 	<div class="right-column">
-		
+		<div id="sidebar">
+			<div id="weather-area">
+				<time>
+					<?php
+						print date("n/j");
+						print '<br />';
+						print date("(D)");
+					?>
+				</time>
+				<!--weather api area -->
+				<div class="weather-api-area">
+				</div>
+				<!--weather api area end -->
+			</div>
+			<div id="pick-up-content">
+				<a href="#"><img src="./images/pic-pick-up-img.png" alt=""></a>
+			</div>
+		</div>
 	</div>
 </div>
 <?php include('footer.php'); ?>

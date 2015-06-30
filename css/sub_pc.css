@@ -21,13 +21,6 @@ border-bottom:2px dotted #65acdf;
 ◆　single
 ------------------------------------ */
 
-#single {
-width:1000px;
-}
-
-#single .left-column {
-padding:0;
-}
 
 #pankuzu {
 padding:15px 20px;
@@ -42,11 +35,16 @@ transform: scaleY(1.001);
 padding:20px;
 }
 
-#single .single__post-media img {
-display:block;
-float:left;
-width:120px;
-height:120px;
+#single .post-img {
+	display:block;
+	float:left;
+	width:120px;
+	height:120px;
+	overflow: auto;
+}
+
+#single .post-img img {
+	height: 120px;
 }
 
 #single .single__post-media .right {

@@ -9,7 +9,7 @@
 		<div id="header" class="clearfix">
 			<div class="header-inner">
 				<div>
-					<a href="index.php"><img src="./images/logo-route134.png" alt="route134"></a>
+					<a class="header-logo" href="index.php"><img src="./images/logo-route134.png" alt="route134"></a>
 				</div>
 				<ul id="social-nav">
 					<li><a href=""><img src="./images/icon-header-twitter.png" alt="twitter"></a></li>
