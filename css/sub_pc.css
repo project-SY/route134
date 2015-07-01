@@ -3,12 +3,58 @@ css
 ◆　common
 ------------------------------------ */
 
+.border-btm-aqua {
+	border-bottom:2px dotted #65acdf;
+}
+
 .border-btm-gray {
 	border-bottom:2px dotted #eeeeee;
 }
 
-.border-btm-aqua {
-	border-bottom:2px dotted #65acdf;
+#pankuzu {
+	padding:10px 0;
+	font-family: YuGo;
+	color:  #666666;
+	font-weight: 500;
+	text-align: left;
+}
+
+/* ------------------------------------
+◆　privacy
+------------------------------------ */
+
+#privacy h2 {
+	color:  #666666;
+	font-size: 22px;
+	padding:20px 0px;
+}
+
+#privacy h3 {
+padding: 20px 0px 10px 0;
+margin-bottom: 20px;
+border-bottom: 2px solid #65acdf;
+font-family: YuGo;
+color:  #666666;
+font-size: 18px; 
+font-weight: 500;
+}
+
+#privacy p {
+	line-height:1.5em;
+}
+
+#privacy ul {
+	padding: 5px 0;
+}
+
+#privacy li {
+	padding-left:10px;
+}
+
+#privacy ul.circle,
+#privacy ul.circle li {
+	list-style-type:disc;
+	list-style-position:inside;
 }
 
 /* ------------------------------------
@@ -21,14 +67,6 @@ css
 }
 =======
 >>>>>>> master
-
-#pankuzu {
-	padding:10px 0;
-	font-family: YuGo;
-	color:  #666666;
-	font-weight: 500;
-	text-align: left;
-}
 
 #single .post-headline {
 	padding:10px 0;
