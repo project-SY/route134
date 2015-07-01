@@ -2,7 +2,7 @@
 <div class="headline content-width clearfix">
 	<div class="left-column">
 		<a class="l-block">
-			<img src="./images/pic-headline-thumbnail-01.png" height="180" width="360" alt="">
+			<img class="headline-thumbnail" src="./images/pic-headline-thumbnail-01.png" height="180" width="360" alt="">
 			<h4>
 				まるで海外のリゾート地♥ 湘南のオシャレなビーチハウスで週末を満喫しよう
 			</h4>
@@ -15,7 +15,7 @@
 					<h6>ライフスタイル</h6>
 				</div>
 				<div class="headline-author">
-					
+					<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
 				</div>
 			</div>
 		</a>
@@ -32,7 +32,7 @@
 	</div>
 	<div class="right-column">
 		<div id="sidebar">
-			<div id="weather-area">
+			<div id="weather-area" class="right-column-block">
 				<time>
 					<?php
 						print date("n/j");
@@ -45,8 +45,25 @@
 				</div>
 				<!--weather api area end -->
 			</div>
-			<div id="pick-up-content">
+			<div id="pick-up-content" class="right-column-block">
 				<a href="#"><img src="./images/pic-pick-up-img.png" alt=""></a>
+			</div>
+			<div id="sidebar-new-posts">
+				<h4>最新の記事</h4>
+				<div class="right-column-block">
+					<div class="sidebar-new-post">
+						<img src="" alt="">
+						<h5></h5>
+						<div class="sidebar-new-post-info">
+							<div class="sidebar-new-post-category">
+								<h6></h6>
+							</div>
+							<div class="sidebar-new-post-author">
+								
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
