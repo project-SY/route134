@@ -78,7 +78,7 @@ li {
 
 .left-column {
   float: left;
-  width: 745px;
+  width: 725px;
   background-color: #fff;
   box-sizing: content-box;
   padding: 10px;
@@ -88,6 +88,14 @@ li {
 .right-column {
   float: right;
   width: 245px;
+}
+
+.right-column-block {
+  width: 225px;
+  padding: 10px;
+  box-shadow: 0px 1px 5px 0px rgba(234, 234, 234, 0.75);
+  background-color: #fff;
+  margin-bottom: 10px;
 }
 
 /* ------------------------------------
@@ -107,8 +115,10 @@ li {
   position: relative;
 }
 
-#header div a {
-  text-align: center;
+#header div .header-logo {
+  margin: 0px auto;
+  width: 151px;
+  height: 61px;
 }
 
 #social-nav {
@@ -184,12 +194,68 @@ li {
   font-size: 9.01px;
   font-weight: 500;
   text-align: left;
+  margin-bottom: 10px;
 }
 
 .headline .left-column .r-block {
   float: right;
   width: 360px;
 }
+
+.headline .headline-category {
+  height: 15px;
+  padding: 5px 0px;
+  border-radius: 2px;
+}
+
+.headline .headline-category h6 {
+  font-size: 10px;
+  color: #ffffff;
+  font-weight: normal;
+  text-align: center;
+}
+
+/*--------------------------------------
+    category group
+---------------------------------------*/
+.lifestyle {
+  width: 90px;
+  background-color: #f9cfb2;
+}
+
+
+/* ------------------------------------
+◆　sidebar
+------------------------------------ */
+#weather-area time {
+  font-family: YuGo;
+  color:  #6cafe0;
+  font-size: 14px;
+  line-height: 19px;
+  border-right: solid 1px #eeeeee;
+  display: inline-block;
+  padding-right: 10px;
+}
+
+#pick-up-content a img {
+  width: 100%;
+}
+
+#sidebar-new-posts {
+  margin-top: 20px;
+}
+
+#sidebar-new-posts h4 {
+  font-family: YuGo;
+  color:  #666666;
+  font-size: 12px;
+  text-align: left;
+  margin-bottom: 10px;
+  border-left: solid 3px #65acdf;
+  padding-left: 15px;
+}
+
+
 
 /* ------------------------------------
 ◆　footer

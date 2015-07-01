@@ -15,9 +15,12 @@ css
 ◆　single
 ------------------------------------ */
 
+<<<<<<< HEAD
 #single {
 	padding: 0 10px;
 }
+=======
+>>>>>>> master
 
 #pankuzu {
 	padding:10px 0;
@@ -37,6 +40,13 @@ css
 	width:120px;
 	height:120px;
 	overflow: auto;
+<<<<<<< HEAD
+=======
+}
+
+#single .post-img img {
+	height: 120px;
+>>>>>>> master
 }
 
 #single .right {
