@@ -3,18 +3,12 @@ css
 ◆　common
 ------------------------------------ */
 
-.contents-area {
-float:left;
-background-color:  #ffffff;
-width:745px;
-}
-
 .border-btm-gray {
-border-bottom:2px dotted #eeeeee;
+	border-bottom:2px dotted #eeeeee;
 }
 
 .border-btm-aqua {
-border-bottom:2px dotted #65acdf;
+	border-bottom:2px dotted #65acdf;
 }
 
 /* ------------------------------------
@@ -22,39 +16,35 @@ border-bottom:2px dotted #65acdf;
 ------------------------------------ */
 
 #single {
-width:1000px;
-}
-
-#single .left-column {
-padding:0;
+	padding: 0 10px;
 }
 
 #pankuzu {
-padding:15px 20px;
-font-family: YuGo;
-color:  #666666;
-font-weight: 500;
-text-align: left;
-transform: scaleY(1.001);
+	padding:10px 0;
+	font-family: YuGo;
+	color:  #666666;
+	font-weight: 500;
+	text-align: left;
 }
 
-#single .single__post-media {
-padding:20px;
+#single .post-headline {
+	padding:10px 0;
 }
 
-#single .single__post-media img {
-display:block;
-float:left;
-width:120px;
-height:120px;
+#single .post-img {
+	display:block;
+	float:left;
+	width:120px;
+	height:120px;
+	overflow: auto;
 }
 
-#single .single__post-media .right {
-float:right;
-width:560px;
+#single .right {
+	float:right;
+	width:560px;
 }
 
-#single .single__post-media .right h2 {
+#single .post-headline h2 {
 font-size:22px;
 margin-bottom:20px;
 line-height:1.5em;
@@ -67,11 +57,11 @@ padding:10px 20px;
 }
 
 #single .post-main {
-padding:20px;
+padding:20px 0px;
 }
 
 #single .post-main img {
-width:700px;
+width:100%;
 }
 
 #single .post-main h3 {
@@ -148,7 +138,7 @@ font-size:9px;
 }
 
 #single .auther-meta {
-padding:20px;
+padding:20px 0;
 }
 
 #single .auther-meta img {
@@ -164,3 +154,4 @@ font-size:11px;
 color:  #999999;
 line-height:60px;
 }
+
