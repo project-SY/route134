@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 <div class="headline content-width clearfix">
 	<div class="left-column">
-		<a class="l-block">
+		<a class="headline-new-post left">
 			<img class="headline-thumbnail" src="./images/pic-headline-thumbnail-01.png" height="180" width="360" alt="">
 			<h4>
 				まるで海外のリゾート地♥ 湘南のオシャレなビーチハウスで週末を満喫しよう
@@ -16,11 +16,12 @@
 				</div>
 				<div class="headline-author">
 					<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
+					<h5>Ken Sayama</h5>
 				</div>
 			</div>
 		</a>
-		<div class="r-block">
-			<img src="./images/pic-headline-thumbnail-02.png" height="180" width="360">
+		<a class="headline-new-post right">
+			<img class="headline-thumbnail" src="./images/pic-headline-thumbnail-02.png" height="180" width="360">
 			<h4>
 				まるで海外のリゾート地♥ 湘南のオシャレなビーチハウスで週末を満喫しよう
 			</h4>
@@ -28,7 +29,16 @@
 				いろいろとアクティブなイベントが多い夏。コーディネートの動きやす
 	さが重要となってくるけれど、やっ...
 			</p>
-		</div>
+			<div class="headline-info">
+				<div class="headline-category lifestyle">
+					<h6>ライフスタイル</h6>
+				</div>
+				<div class="headline-author">
+					<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
+					<h5>Ken Sayama</h5>
+				</div>
+			</div>
+		</a>
 	</div>
 	<div class="right-column">
 		<div id="sidebar">
@@ -59,7 +69,6 @@
 								<h6></h6>
 							</div>
 							<div class="sidebar-new-post-author">
-								
 							</div>
 						</div>
 					</div>

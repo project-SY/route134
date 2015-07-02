@@ -98,6 +98,9 @@ li {
   margin-bottom: 10px;
 }
 
+.left {float: left;}
+.right {float: right;}
+
 /* ------------------------------------
 ◆　header
 ------------------------------------ */
@@ -168,12 +171,9 @@ li {
 /* ------------------------------------
 ◆　index
 ------------------------------------ */
-.headline .left-column .l-block {
-  float: left;
-  width: 360px;
-}
+.headline .headline-new-post {width: 360px; padding-bottom: 2px;}
 
-.headline .left-column img {
+.headline .headline-new-post .headline-thumbnail {
   width: 360px;
   height: 180px;
   margin-bottom: 10px;
@@ -197,15 +197,11 @@ li {
   margin-bottom: 10px;
 }
 
-.headline .left-column .r-block {
-  float: right;
-  width: 360px;
-}
-
 .headline .headline-category {
   height: 15px;
   padding: 5px 0px;
   border-radius: 2px;
+  float: left;
 }
 
 .headline .headline-category h6 {
@@ -215,6 +211,18 @@ li {
   text-align: center;
 }
 
+.headline .headline-author {
+  float: left;
+  padding: 5px 0px 5px 10px;
+}
+
+.headline .headline-author img {float: left;}
+.headline .headline-author h5 {
+  float: left;
+  padding-left: 10px;
+  font-size: 12px;
+  font-weight: normal;
+}
 /*--------------------------------------
     category group
 ---------------------------------------*/
