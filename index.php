@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 <div class="headline content-width clearfix">
-	<div class="left-column">
+	<div class="content-column">
 		<a class="headline-new-post left">
 			<img class="headline-thumbnail" src="./images/pic-headline-thumbnail-01.png" height="180" width="360" alt="">
 			<h4>
@@ -40,9 +40,9 @@
 			</div>
 		</a>
 	</div>
-	<div class="right-column">
+	<div class="sidebar-column">
 		<div id="sidebar">
-			<div id="weather-area" class="right-column-block">
+			<div id="weather-area" class="sidebar-column-block">
 				<time>
 					<?php
 						print date("n/j");
@@ -55,7 +55,7 @@
 				</div>
 				<!--weather api area end -->
 			</div>
-			<div id="pick-up-content" class="right-column-block">
+			<div id="pick-up-content" class="sidebar-column-block">
 				<a href="#"><img src="./images/pic-pick-up-img.png" alt=""></a>
 			</div>
 			<div id="sidebar-new-posts">

@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 	<div class="content-width clearfix">
-		<div class="left-column">
+		<div class="content-column">
 			<div id="privacy">
 				<div id="pankuzu" class="border-btm-gray">
 					ぱんくずリストが入ります。
