@@ -5,10 +5,8 @@
 				<div id="pankuzu" class="border-btm-gray">
 					ぱんくずリストが入ります。
 				</div>
-				<div class="single__post-media clearfix border-btm-gray">
-					<div class="post-img">
-						<img src="./images/pic-headline-thumbnail-01.png">
-					</div>
+				<div class="post-headline clearfix border-btm-gray">
+					<img class="post-img" src="./images/pic-headline-thumbnail-01.png">
 					<div class="right">
 						<h2>まるで海外のリゾート地♥ 湘南のオシャレなビーチハウスで週末を満喫しよう</h2>
 						<p class="sub-title">『Pacific DRIVE-IN』は駐車場370台を備える七里ヶ浜海岸駐車場の中央に位置し、
@@ -71,7 +69,8 @@
 			</div><!-- related-posts end -->
 			<div class="sns-area border-btm-gray">
 				<p>snsが入ります。</p>
-			</div><!-- sns-area end -->
+			</div>
+			<!-- sns-area end -->
 			<div class="auther-meta clearfix">
 				<img src="">
 				<p class="auther">Kazuma Ueda</p>
