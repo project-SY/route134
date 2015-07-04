@@ -17,6 +17,7 @@
 	font-weight: 500;
 	text-align: left;
 	margin-bottom: 20px;
+<<<<<<< HEAD
 }
 
 .category {
@@ -29,6 +30,8 @@
 	border-radius: 2px;
 	background-color:  #f9cfb2;
 	color:#FFF;
+=======
+>>>>>>> c02c1c3fb326ceb1743d38455ac53689c448da4a
 }
 
 /* ------------------------------------
@@ -70,6 +73,7 @@ font-weight: 500;
 }
 
 /* ------------------------------------
+<<<<<<< HEAD
 ◆　category
 ------------------------------------ */
 
@@ -144,6 +148,8 @@ font-weight: 500;
 
 
 /* ------------------------------------
+=======
+>>>>>>> c02c1c3fb326ceb1743d38455ac53689c448da4a
 ◆　single
 ------------------------------------ */
 
@@ -174,12 +180,21 @@ font-weight: 500;
 #single .right {
 	float:right;
 	width:560px;
+<<<<<<< HEAD
 }
 
 #single .post-headline {
 	padding-bottom: 30px;
 }
 
+=======
+}
+
+#single .post-headline {
+	padding-bottom: 30px;
+}
+
+>>>>>>> c02c1c3fb326ceb1743d38455ac53689c448da4a
 #single .post-headline h2 {
 font-size:22px;
 margin-bottom:20px;
