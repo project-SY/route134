@@ -77,15 +77,43 @@ h3 {
 	font-family: YuGo;
 	color: #666666;
 	text-align: center;
-	line-height:2.5em;
+	line-height: 2.5em;
 }
 
 #about .message {
-	width:100%;
+	width: 100%;
 	margin: 0 auto;
 }
 
+#about .member-wrap {
+	width: 100%;
+	margin-bottom: 40px;
+}
 
+#about .member {
+	float: left;
+	width: 30%;
+	margin-right: 5%;
+}
+
+#about .member:last-child {
+	margin-right: 0px;
+}
+
+#about .member img {
+	display: block;
+	margin: 0 auto 20px;
+}
+
+#about .member h4 {
+	margin-bottom: 10px;
+	font-family: Avenir;
+	font-size: 12px;
+}
+
+#about .member p {
+	font-size: 11px;
+}
 
 /* ------------------------------------
 ◆　privacy
