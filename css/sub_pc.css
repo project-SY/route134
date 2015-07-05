@@ -140,12 +140,30 @@ h3 {
 	font-size:11px;
 }
 
+#contact .notice {
+	margin-bottom:25px;
+}
+
 #contact .contact-form {
 	width:480px;
 }
 
 #contact .contact-form p {
+	margin-bottom:20px;
+}
+
+#contact .contact-form label {
+	display:inline-block;
 	margin-bottom:10px;
+}
+
+#contact .contact-form label span {
+	display:inline-block;
+	margin-left:10px;
+	padding:2px 5px;
+	background-color:#1fa1cc;
+	color:#fff;
+	font-size:9px;
 }
 
 #contact input[type="text"],
@@ -153,13 +171,21 @@ h3 {
 textarea {
 	display: block;
 	box-sizing:border-box;
-	width:100%;
-  	font-size: 16px;
+  	font-size: 14px;
   	padding: 5px 0px 5px 15px;
   	font-family: 'Quicksand',"Yu Gothic",YuGothic;
   	border: solid 1px #e8e8e8;
   	border-radius: 3px;
   	resize: none;
+}
+
+#contact input[type="text"],
+#contact input[type="email"] {
+	width:80%;
+}
+
+textarea {
+	width:100%;
 }
 
 #contact input[type="text"]:focus,
@@ -171,7 +197,7 @@ textarea:focus {
 
 
 input[type="submit"] {
-	width:100%;
+	width:50%;
 	-webkit-appearance: none;
   	background: #009dff;
   	border: none;
