@@ -17,7 +17,6 @@
 	font-weight: 500;
 	text-align: left;
 	margin-bottom: 20px;
-<<<<<<< HEAD
 }
 
 .category {
@@ -30,8 +29,16 @@
 	border-radius: 2px;
 	background-color:  #f9cfb2;
 	color:#FFF;
-=======
->>>>>>> c02c1c3fb326ceb1743d38455ac53689c448da4a
+}
+
+h3 {
+	padding: 20px 0px 10px 0;
+	margin-bottom: 20px;
+	border-bottom: 2px solid #65acdf;
+	font-family: YuGo;
+	color:  #666666;
+	font-size: 18px; 
+	font-weight: 500;
 }
 
 /* ------------------------------------
@@ -42,16 +49,6 @@
 	color:  #666666;
 	font-size: 22px;
 	padding:20px 0px;
-}
-
-#privacy h3 {
-padding: 20px 0px 10px 0;
-margin-bottom: 20px;
-border-bottom: 2px solid #65acdf;
-font-family: YuGo;
-color:  #666666;
-font-size: 18px; 
-font-weight: 500;
 }
 
 #privacy p {
@@ -73,7 +70,78 @@ font-weight: 500;
 }
 
 /* ------------------------------------
-<<<<<<< HEAD
+◆　contact
+------------------------------------ */
+
+#contact #pankuzu {
+	margin:0;
+}
+
+#contact h2 {
+	color:  #666666;
+	font-size: 22px;
+	padding:20px 0px;
+}
+
+#contact h3 {
+		padding:0px 0 10px;
+}
+
+#contact .discription {
+	margin-bottom:20px;
+	font-family: YuGo;
+	color:  #666666;
+	font-size:11px;
+}
+
+#contact .contact-form {
+	width:480px;
+}
+
+#contact .contact-form p {
+	margin-bottom:10px;
+}
+
+#contact input[type="text"],
+#contact input[type="email"],
+textarea {
+	display: block;
+	box-sizing:border-box;
+	width:100%;
+  	font-size: 16px;
+  	padding: 5px 0px 5px 15px;
+  	font-family: 'Quicksand',"Yu Gothic",YuGothic;
+  	border: solid 1px #e8e8e8;
+  	border-radius: 3px;
+  	resize: none;
+}
+
+#contact input[type="text"]:focus,
+#contact input[type="email"]:focus,
+textarea:focus {
+	border: solid 1px #1CA8DD;
+	outline: 0;
+}
+
+
+input[type="submit"] {
+	width:100%;
+	-webkit-appearance: none;
+  	background: #009dff;
+  	border: none;
+  	border-radius: 2px;
+  	color: #fff;
+  	cursor: pointer;
+  	height: 50px;
+ 	font-family: 'Open Sans', sans-serif;
+ 	font-size: 1.2em;
+  	letter-spacing: 0.05em;
+	text-align: center;
+	text-transform: uppercase;
+	transition: background 0.3s ease-in-out;
+}
+
+/* ------------------------------------
 ◆　category
 ------------------------------------ */
 
@@ -148,17 +216,12 @@ font-weight: 500;
 
 
 /* ------------------------------------
-=======
->>>>>>> c02c1c3fb326ceb1743d38455ac53689c448da4a
 ◆　single
 ------------------------------------ */
 
-<<<<<<< HEAD
 #single {
 	padding: 0 10px;
 }
-=======
->>>>>>> master
 
 #single .post-headline {
 	padding:10px 0;
@@ -174,27 +237,20 @@ font-weight: 500;
 
 #single .post-img img {
 	height: 120px;
->>>>>>> master
 }
 
 #single .right {
 	float:right;
 	width:560px;
-<<<<<<< HEAD
 }
 
 #single .post-headline {
 	padding-bottom: 30px;
 }
 
-=======
-}
-
 #single .post-headline {
 	padding-bottom: 30px;
 }
-
->>>>>>> c02c1c3fb326ceb1743d38455ac53689c448da4a
 #single .post-headline h2 {
 font-size:22px;
 margin-bottom:20px;
@@ -204,7 +260,7 @@ color:  #666666;
 }
 
 #single .sns-area {
-padding:10px 20px;
+padding:10px 0;
 }
 
 #single .post-main {
@@ -213,15 +269,6 @@ padding:20px 0px;
 
 #single .post-main img {
 width:100%;
-}
-
-#single .post-main h3 {
-padding:20px 0px 10px 0;
-border-bottom: 2px solid #65acdf;
-font-family: YuGo;
-color:  #666666;
-font-size: 18px; 
-font-weight: 500;
 }
 
 #single .post-main p {
