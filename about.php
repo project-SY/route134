@@ -11,10 +11,10 @@
 				</h1>
 				<div class="grid-wrap clearfix">
 					<div class="grid-left clearfix">
-						<img src="./images/pic-about-drive.jpg" alt="">
-						<img src="./images/pic-about-sweets.jpg" alt="">
-						<img src="./images/pic-about-sunset.jpg" alt="">
-						<img src="./images/pic-about-sea.jpg" alt="">
+						<img src="./images/pic-about-thumbnail-01.jpg" alt="">
+						<img src="./images/pic-about-thumbnail-02.jpg" alt="">
+						<img src="./images/pic-about-thumbnail-03.jpg" alt="">
+						<img src="./images/pic-about-thumbnail-04.jpg" alt="">
 					</div>
 					<img class="about-kv" src="./images/pic-about-kv.jpg">
 				</div>
