@@ -2,44 +2,46 @@
 <div class="headline content-width clearfix">
 	<!-- content-column-->
 	<div class="content-column">
-		<a class="headline-new-post left">
-			<img class="headline-thumbnail" src="./images/pic-headline-thumbnail-01.png" height="180" width="360" alt="">
-			<h4>
-				まるで海外のリゾート地♥ 湘南のオシャレなビーチハウスで週末を満喫しよう
-			</h4>
-			<p>
-				いろいろとアクティブなイベントが多い夏。コーディネートの動きやす
-	さが重要となってくるけれど、やっ...
-			</p>
-			<div class="category-info">
-				<div class="category-type lifestyle">
-					<h6>ライフスタイル</h6>
+		<div class="content-column-block clearfix">
+			<a class="headline-new-post left">
+				<img class="headline-thumbnail" src="./images/pic-headline-thumbnail-01.png" height="180" width="360" alt="">
+				<h4>
+					まるで海外のリゾート地♥ 湘南のオシャレなビーチハウスで週末を満喫しよう
+				</h4>
+				<p>
+					いろいろとアクティブなイベントが多い夏。コーディネートの動きやす
+		さが重要となってくるけれど、やっ...
+				</p>
+				<div class="category-info">
+					<div class="category-type lifestyle">
+						<h6>ライフスタイル</h6>
+					</div>
+					<div class="category-author">
+						<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
+						<h5>Ken Sayama</h5>
+					</div>
 				</div>
-				<div class="category-author">
-					<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
-					<h5>Ken Sayama</h5>
+			</a>
+			<a class="headline-new-post right">
+				<img class="headline-thumbnail" src="./images/pic-headline-thumbnail-02.png" height="180" width="360">
+				<h4>
+					まるで海外のリゾート地♥ 湘南のオシャレなビーチハウスで週末を満喫しよう
+				</h4>
+				<p>
+					いろいろとアクティブなイベントが多い夏。コーディネートの動きやす
+		さが重要となってくるけれど、やっ...
+				</p>
+				<div class="category-info clearfix">
+					<div class="category-type lifestyle">
+						<h6>ライフスタイル</h6>
+					</div>
+					<div class="category-author">
+						<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
+						<h5>Ken Sayama</h5>
+					</div>
 				</div>
-			</div>
-		</a>
-		<a class="headline-new-post right">
-			<img class="headline-thumbnail" src="./images/pic-headline-thumbnail-02.png" height="180" width="360">
-			<h4>
-				まるで海外のリゾート地♥ 湘南のオシャレなビーチハウスで週末を満喫しよう
-			</h4>
-			<p>
-				いろいろとアクティブなイベントが多い夏。コーディネートの動きやす
-	さが重要となってくるけれど、やっ...
-			</p>
-			<div class="category-info clearfix">
-				<div class="category-type lifestyle">
-					<h6>ライフスタイル</h6>
-				</div>
-				<div class="category-author">
-					<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
-					<h5>Ken Sayama</h5>
-				</div>
-			</div>
-		</a>
+			</a>
+		</div>
 	</div>
 	<!-- content-column end-->
 	<!--sidebar-column-->

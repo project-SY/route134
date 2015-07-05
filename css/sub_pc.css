@@ -338,7 +338,6 @@ margin-bottom:20px;
 }
 
 #single .related-posts .media {
-width:495px;
 margin-bottom:10px;
 }
 
@@ -353,9 +352,8 @@ float:left;
 }
 
 #single .related-posts .media .right {
-float:right;
-width:425px;
-padding:5px 0;
+float:left;
+padding:5px 0 5px 15px;
 }
 
 #single .related-posts .media .right h4 {
