@@ -42,6 +42,52 @@ h3 {
 }
 
 /* ------------------------------------
+◆　about
+------------------------------------ */
+
+#about h1 {
+	margin-bottom:50px;
+	font-family: YuGo;
+	font-size:24px;
+	color:  #65acdf;
+	line-height:2.25em;
+	text-align:center;
+}
+
+#about .grid-wrap {
+	margin-bottom: 50px;
+}
+
+#about .grid-left {
+	width: 40%;
+	float:left;
+}
+
+#about .grid-left img {
+	width:50%;
+	float:left;
+}
+
+#about .about-kv {
+	width:60%;
+}
+
+#about .discription {
+	margin-bottom: 40px;
+	font-family: YuGo;
+	color: #666666;
+	text-align: center;
+	line-height:2.5em;
+}
+
+#about .message {
+	width:100%;
+	margin: 0 auto;
+}
+
+
+
+/* ------------------------------------
 ◆　privacy
 ------------------------------------ */
 
