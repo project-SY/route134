@@ -260,6 +260,36 @@ input[type="submit"] {
 	margin-right:5px;
 }
 
+/* ------------------------------------
+◆　curator
+------------------------------------ */
+
+#curator .curator-headline-info {
+	
+}
+
+#curator .curator-headline-info img {
+	float:left;
+	width:100px;
+}
+
+#curator .curator-headline-info .right {
+	float:right;
+	width:590px;
+}
+
+#curator .curator-headline-info .right h2 {
+	margin-bottom:10px;
+	font-family: Avenir;
+	font-size:22px;
+	color:  #666666;
+	letter-spacing:0.08em;
+	line-height:2em;
+}
+
+
+
+
 
 /* ------------------------------------
 ◆　single
