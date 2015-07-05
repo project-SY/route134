@@ -14,7 +14,7 @@
 				</p>
 				<div class="category-info">
 					<div class="category-type lifestyle">
-						<h6>ライフスタイル</h6>
+						<span>ライフスタイル</span>
 					</div>
 					<div class="category-author">
 						<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
@@ -33,7 +33,7 @@
 				</p>
 				<div class="category-info clearfix">
 					<div class="category-type lifestyle">
-						<h6>ライフスタイル</h6>
+						<span>ライフスタイル</span>
 					</div>
 					<div class="category-author">
 						<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
@@ -97,7 +97,7 @@
 					<p>いろいろとアクティブなイベントが多い夏...</p>
 					<div class="category-info clearfix">
 						<div class="category-type lifestyle">
-							<h6>ライフスタイル</h6>
+							<span>ライフスタイル</span>
 						</div>
 						<div class="category-author">
 							<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
@@ -114,7 +114,7 @@
 					<p>いろいろとアクティブなイベントが多い夏...</p>
 					<div class="category-info clearfix">
 						<div class="category-type lifestyle">
-							<h6>ライフスタイル</h6>
+							<span>ライフスタイル</span>
 						</div>
 						<div class="category-author">
 							<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
@@ -131,7 +131,7 @@
 					<p>いろいろとアクティブなイベントが多い夏...</p>
 					<div class="category-info clearfix">
 						<div class="category-type lifestyle">
-							<h6>ライフスタイル</h6>
+							<span>ライフスタイル</span>
 						</div>
 						<div class="category-author">
 							<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
@@ -148,7 +148,7 @@
 					<p>いろいろとアクティブなイベントが多い夏...</p>
 					<div class="category-info clearfix">
 						<div class="category-type lifestyle">
-							<h6>ライフスタイル</h6>
+							<span>ライフスタイル</span>
 						</div>
 						<div class="category-author">
 							<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
@@ -165,7 +165,7 @@
 					<p>いろいろとアクティブなイベントが多い夏...</p>
 					<div class="category-info clearfix">
 						<div class="category-type lifestyle">
-							<h6>ライフスタイル</h6>
+							<span>ライフスタイル</span>
 						</div>
 						<div class="category-author">
 							<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
@@ -182,7 +182,7 @@
 					<p>いろいろとアクティブなイベントが多い夏...</p>
 					<div class="category-info clearfix">
 						<div class="category-type lifestyle">
-							<h6>ライフスタイル</h6>
+							<span>ライフスタイル</span>
 						</div>
 						<div class="category-author">
 							<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
@@ -199,7 +199,7 @@
 					<p>いろいろとアクティブなイベントが多い夏...</p>
 					<div class="category-info clearfix">
 						<div class="category-type lifestyle">
-							<h6>ライフスタイル</h6>
+							<span>ライフスタイル</span>
 						</div>
 						<div class="category-author">
 							<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
@@ -216,7 +216,7 @@
 					<p>いろいろとアクティブなイベントが多い夏...</p>
 					<div class="category-info clearfix">
 						<div class="category-type lifestyle">
-							<h6>ライフスタイル</h6>
+							<span>ライフスタイル</span>
 						</div>
 						<div class="category-author">
 							<img src="./images/icon-index-author-thumbnail.png" height="15" width="15" alt="">
