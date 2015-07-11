@@ -18,11 +18,11 @@
 			</div>
 			<div id="sidebar-new-posts">
 				<h4>最新の記事</h4>
-				<div class="right-column-block">
-					<div class="sidebar-new-post">
+				<div class="sidebar-column-block">
+					<div class="sidebar-new-post clearfix">
 						<img src="" alt="">
-						<h5></h5>
 						<div class="sidebar-new-post-info">
+							<h5>葉山の絶景ビーチカフェCABAN(カボン)でリ...</h5>
 							<div class="sidebar-new-post-category">
 								<h6></h6>
 							</div>

@@ -59,28 +59,7 @@
 					</li>
 				</ul>
 			</div>
-
-
 		</div>
-	<div class="sidebar-column">
-		<div id="sidebar">
-			<div id="weather-area" class="sidebar-column-block">
-				<time>
-					<?php
-						print date("n/j");
-						print '<br />';
-						print date("(D)");
-					?>
-				</time>
-				<!--weather api area -->
-				<div class="weather-api-area">
-				</div>
-				<!--weather api area end -->
-			</div>
-			<div id="pick-up-content" class="sidebar-column-block">
-				<a href="#"><img src="./images/pic-pick-up-img.png" alt=""></a>
-			</div>
-		</div>
-	</div>
+		<?php include('sidebar.php') ?>
 </div>
 <?php include('footer.php'); ?>

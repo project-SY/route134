@@ -380,6 +380,18 @@ li {
   padding-left: 15px;
 }
 
+#sidebar-new-posts img {
+  width: 55px;
+  height: 55px;
+  float: left;
+}
+
+#sidebar-new-posts .sidebar-new-post-info {
+  margin-left: 10px;
+  float: left;
+}
+
+
 /* ------------------------------------
 ◆　curators
 ------------------------------------ */

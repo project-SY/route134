@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 	<div class="content-width clearfix">
 		<div class="content-column">
-			<div id="contact">
+			<div id="contact" class="content-column-block">
 				<div id="pankuzu" class="border-btm-gray">
 					ぱんくずリストが入ります。
 				</div>
